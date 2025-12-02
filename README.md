@@ -23,7 +23,7 @@ https://www.kaggle.com/datasets/adityajn105/gtsrb-german-traffic-sign
 
 ---
 
-## Model Architecture (ตามไฟล์ที่ให้)
+## Model Architecture
 
 โมเดลถูกสร้างด้วย **CNN แบบลึกหลายชั้น**  
 รายละเอียดตามโค้ด:
