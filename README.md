@@ -45,7 +45,7 @@ https://www.kaggle.com/datasets/adityajn105/gtsrb-german-traffic-sign
 - Dropout(0.5)  
 - Dense(43, Softmax)
 
-### 🛠 Optimizer / Loss
+### Optimizer / Loss
 - Optimizer: **Adam**  
 - Loss: **Sparse Categorical Crossentropy**  
 - Metrics: **Accuracy**
