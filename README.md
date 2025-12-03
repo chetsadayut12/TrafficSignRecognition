@@ -58,7 +58,7 @@ https://www.kaggle.com/datasets/adityajn105/gtsrb-german-traffic-sign
 ขนาด batch: **32**
 
 ### Final Validation Result:
-- **Validation Accuracy:** ~0.998  
+- **Validation Accuracy:** ~0.997  
 - **Validation Loss:** ~0.016  
 
 ### Classification Report (Precision / Recall / F1-score)
